@@ -1,0 +1,26 @@
+{
+  "name": "psd2page",
+  "version": "0.0.0",
+  "description": "First PSD to HTML/CSS",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "~2.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-sass": "~2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wellsDev/psd2page.git"
+  },
+  "author": "Charlie Wells",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/wellsDev/psd2page/issues"
+  }
+}
